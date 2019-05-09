@@ -60,10 +60,12 @@ What do we want?
 
 
 
+COMMANDS TO RUN IN BROWSER:
+npm run dev 
 
 
-
-
+PRODUCTION MODE: (slower):
+npm run prod
 
 
 
