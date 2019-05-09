@@ -1,0 +1,12 @@
+launching the server side with these commands will make server auto restart when save files are edited
+
+
+running in dev doesnt transpile just runs code. effectient and fast for testing
+
+npm run dev
+
+
+
+running production mode tanspiles script (can run slow dont bother for testing)
+
+npm run prod
